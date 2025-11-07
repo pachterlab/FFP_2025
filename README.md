@@ -10,6 +10,6 @@ An example input anndata object is provided, with the fitting code, for each of 
 
 Clustering scripts that were used to subset cells from the filtered RNA data are given in data_processing.
 
-The raw data for the 10x, 2018 dataset can be downloaded from: https://figshare.com/articles/dataset/10X_protein_and_mRNA_counts/9912734/1?file=17826998
+The pre-processed data for the 10x, 2018 dataset can be downloaded from: https://figshare.com/articles/dataset/10X_protein_and_mRNA_counts/9912734/1?file=17826998
 
 
