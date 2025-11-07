@@ -9,3 +9,7 @@ The monod_source folder contains the source code from Monod. This was the same a
 An example input anndata object is provided, with the fitting code, for each of the gene fits shown in Figure 4, in gene_fitting.
 
 Clustering scripts that were used to subset cells from the filtered RNA data are given in data_processing.
+
+The raw data for the 10x, 2018 dataset can be downloaded from: https://figshare.com/articles/dataset/10X_protein_and_mRNA_counts/9912734/1?file=17826998
+
+
